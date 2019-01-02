@@ -20,7 +20,7 @@ $(function() {
             }
 
             $.ajax({
-                url: "http://tranquil-everglades-59142.herokuapp.com/mail",
+                url: "https://site-email-form-5and2studio.herokuapp.com/mail",
                 type: "POST",
                 data: {
                     name: name,
